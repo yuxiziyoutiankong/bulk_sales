@@ -1,6 +1,6 @@
 # bulk_sales
 
-> team
+> team one
 
 ## Build Setup
 
